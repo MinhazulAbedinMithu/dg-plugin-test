@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/db-publish/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/db-publish/"}
 ---
+
 
 Hello world
 Hellod
